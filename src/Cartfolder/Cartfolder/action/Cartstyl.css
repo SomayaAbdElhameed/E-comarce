@@ -1,0 +1,18 @@
+.cartstyl{
+    background-color: #e9f0fd;
+    /* background: url(C:\Users\S\Desktop\code\mobb\src\img\bg.png) #1abc9c93 no-repeat; */
+    margin-top: -80px;
+}
+
+
+.cartstyl h2{
+    padding-top: 100px;
+    font-size: 22px;
+    color: #1abc9c;
+    font-weight: 600;
+}
+
+.cartstyl p{
+    font-size: 19px;
+    padding: 10px;
+}

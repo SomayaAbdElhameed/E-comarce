@@ -1,0 +1,300 @@
+[
+
+    {
+        "id":1 ,
+        "name":"Kids Clothes", 
+        "size" : "from 1 to 10 years ",
+        "color":"Red - Green - black ",
+        "Shipping": "Does not ship to Kuwait |",
+        "Description":"Fashion design,100% Brand New,high quality ",
+        "img" : "/images/k8.jpg",
+        "img2" : "/images/k82.jpg",
+        "img3" : "/images/k83.jpg",
+        "img4" : "/images/k84.jpg",
+        "price": 120
+
+    },
+
+    
+    {
+        "id":2 ,
+        "name":"kids Clothes", 
+        "size" : "S-M-L-XL-XXL",
+        "color":"Red - Green ",
+        "Shipping": "FREE SHIPPING |",
+        "Description":"Fashion design,100% Brand New,high quality ",
+        "img" : "/images/www.jpg",
+        "img2" : "/images/www2.jpg",
+        "img3" : "/images/www3.jpg",
+
+        "img4" : "/images/www4.jpg",
+
+       
+        "price": 290
+    },
+
+    
+    {
+        "id":3 ,
+        "name":"kids Clothes", 
+        "size" : "S-M-L-XL-XXL",
+        "color":"Red - Green ",
+        "Shipping": "Does not ship to Kuwait |",
+        "Description":"Fashion design,100% Brand New,high quality ",
+        "img" : "/images/k4.jpg",
+        "img2" : "/images/k42.jpg",
+        "img3" : "/images/k43.jpg",
+        "img4" : "/images/k44.jpg",
+
+        "price": 190
+
+
+    },
+
+    {
+        
+        "id":4 ,
+        "name":"Watch", 
+        "color":"Red - Green -pink ",
+        "Shipping": "FREE SHIPPING |",
+        "Description":"Fashion design,100% Brand New,high quality ",
+        "img" : "/images/w1.jpg",
+        "img2" : "/images/w12.jpg",
+        "img3" : "/images/w13.jpg",
+        "img4" : "/images/w14.jpg",
+        "price": 230
+
+    },
+
+    {
+        "id":5 ,
+        "name":"Watch", 
+        "color":"Red - Green - Black ",
+        "Shipping": "Does not ship to Egypt |",
+        "Description":"Fashion design,100% Brand New,high quality ",
+        "img" : "/images/w4.jpg",
+        "img2" : "/images/w42.jpg",
+        "img3" : "/images/w43.jpg",
+        "img4" : "/images/w44.jpg",
+        "price": 180
+    },
+    {
+        
+        "id":6 ,
+        "name":"Watch", 
+        "color":"Red - Green -pink ",
+        "Shipping": "FREE SHIPPING |",
+        "Description":"Fashion design,100% Brand New,high quality ",
+        "img" : "/images/w5.jpg",
+        "img2" : "/images/w52.jpg",
+        "img3" : "/images/w53.jpg",
+        "img4" : "/images/w54.jpg",
+        "price": 175
+
+    },
+
+    {  
+        "id":7 ,
+        "name":"Watch", 
+        "color":"Red - Green -pink ",
+        "Shipping": "FREE SHIPPING |",
+        "Description":"Fashion design,100% Brand New,high quality ",
+        "img" : "/images/w6.jpg",
+        "img2" : "/images/w62.jpg",
+        "img3" : "/images/w63.jpg",
+        "img4" : "/images/w64.jpg",
+        "price": 195
+}, 
+
+
+    { "id":8 ,
+        "name":"Glasses", 
+        "color":"Red - Green - Browen ",
+        "Shipping": "Does not ship to Egypt |",
+        "Description":"Fashion design,100% Brand New,high quality ",
+        "img" : "/images/g.jpg",
+        "img2" : "/images/g2.jpg",
+        "img3" : "/images/g3.jpg",
+        "img4" : "/images/g4.jpg",
+
+        "price": 160},
+
+
+
+    { "id":9 ,
+        "name":"Glasses", 
+        "size" : "S-M-L-XL-XXL",
+        "color":"Red - Green ",
+        "Shipping": "Does not ship to Kuwait |",
+        "Description":"Fashion design,100% Brand New,high quality ",
+        "img" : "/images/gg.jpg",
+        "img2" : "/images/gg2.jpg",
+        "img3" : "/images/gg3.jpg",
+        "img4" : "/images/gg4.jpg",
+
+        
+        "price": 290},
+    {
+        "id":10 ,
+        "name":"Glasses", 
+        "size" : "S-M-L-XL-XXL",
+        "color":"Red - Green ",
+        "Shipping": "Does not ship to Kuwait |",
+        "Description":"Fashion design,100% Brand New,high quality ",
+        "img" : "/images/ggg.jpg",
+        "img2" : "/images/ggg2.jpg",
+        "img3" : "/images/ggg3.jpg",
+        "img4" : "/images/ggg4.jpg",
+        "price": 309
+    },
+
+
+
+    { "id":11 ,
+        "name":"Glasses", 
+        "size" : "S-M-L-XL-XXL",
+        "color":"Red - Green ",
+        "Shipping": "Does not ship to Kuwait |",
+        "Description":"Fashion design,100% Brand New,high quality ",
+        "img" : "/images/gggg.jpg",
+        "img2" : "/images/gggg2.jpg",
+        "img3" : "/images/gggg3.jpg",
+        "img4" : "/imagesgggg4.jpg",
+        "price": 230},
+
+    { "id":12 ,
+        "name":"Bag", 
+        "size" : "S-M",
+        "color":"Red - Green - pink ",
+        "Shipping": "FREE SHIPPING |",
+        "Description":"Fashion design,100% Brand New,high quality ",
+        "img" : "/images/b2.jpg",
+        "img2" : "/images/b.jpg",
+        "img3" : "/images/b4.jpg",
+        "img4" : "/images/b3.jpg",
+        "price": 310},
+
+    { "id":13 ,
+        "name":"Bag", 
+        "size" : "S-M",
+        "color":"Red - Green - pink ",
+        "Shipping": "FREE SHIPPING |",
+        "Description":"Fashion design,100% Brand New,high quality ",
+        "img" : "/images/bb.jpg",
+        "img2" : "/images/bb1.png",
+        "img3" : "/images/bb2.jpg",
+        "img4" : "/images/bb3.jpg",
+        "price": 290},
+
+
+    { "id":14 ,
+        "name":"Bag", 
+        "size" : "S-M",
+        "color":"Red - Green - pink ",
+        "Shipping": "FREE SHIPPING |",
+        "Description":"Fashion design,100% Brand New,high quality ",
+        "img" : "/images/bbbb2.jpg",
+        "img2" : "/images/bbbb4.jpg",
+        "img3" : "/images/bbbb3.jpg",
+        "img4" : "/images/bbbb4.jpg",
+        "price": 270},
+
+    { "id":15 ,
+        "name":"Shoes", 
+        "size" : "20 - 44",
+        "color":"White - Green ",
+        "Shipping": "FREE SHIPPING |",
+        "Description":"Fashion design,100% Brand New,high quality ",
+        "img" : "/images/shs.jpg",
+        "img2" : "/images/shs2.jpg",
+        "img3" : "/images/shs3.jpg",
+        "img4" : "/images/shs4.jpg",
+        "price": 320},
+
+
+
+        { "id":16 ,
+            "name":"Shoes", 
+            "size" : "20 - 44",
+            "color":"White - Green ",
+            "Shipping": "FREE SHIPPING |",
+            "Description":"Fashion design,100% Brand New,high quality ",
+            "img" : "/images/sh.jpg",
+            "img2" : "/images/sh3.jpg",
+            "img3" : "/images/sh2.jpg",
+            "img4" : "/images/sh4.jpg",
+            "price": 339},
+
+        { "id":17 ,
+            "name":"Bag", 
+            "size" : "S-M",
+            "color":" Dark Green  ",
+            "Shipping": "FREE SHIPPING |",
+            "Description":"Fashion design,100% Brand New,high quality ",
+            "img" : "/images/b1b.jpg",
+            "img2" : "/images/b2b.jpg",
+            "img3" : "/images/b3b.jpg",
+            "img4" : "/images/b4b.jpg",
+            "price": 270},
+
+
+
+            { "id":18 ,
+                "name":"Bag", 
+            "size" : "S-M",
+            "color":" Yellow  ",
+            "Shipping": "FREE SHIPPING |",
+            "Description":"Fashion design,100% Brand New,high quality ",
+            "img" : "/images/bb1b.jpg",
+            "img2" : "/images/bb2b.jpg",
+            "img3" : "/images/bb3b.jpg",
+            "img4" : "/images/bb4b.jpg",
+            "price": 220},
+
+
+            { "id":19 ,
+                "name":"kids Clothes", 
+                "size" : "S-M-L-XL-XXL",
+                "color":"Red - Green ",
+                "Shipping": "FREE SHIPPING |",
+                "Description":"Fashion design,100% Brand New,high quality ",
+                "img" : "/images/ki.jpg",
+                "img2" : "/images/ki2.jpg",
+                "img3" : "/images/ki.jpg",
+                "img4" : "/images/ki2.jpg",
+                "price": 111},
+
+
+            { "id":20 ,
+                "name":"kids Clothes", 
+                "size" : "S-M-L-XL-XXL",
+                "color":"Red - Green ",
+                "Shipping": "FREE SHIPPING |",
+                "Description":"Fashion design,100% Brand New,high quality ",
+                "img" : "/images/kid.png",
+                "img2" : "/images/kid2.png",
+                "img3" : "/images/kid3.png",
+                "img4" : "/images/kid4.png",
+                "price": 146},
+
+
+            { "id":21 ,
+                "name":"kids Clothes", 
+                "size" : "S-M-L-XL-XXL",
+                "color":"Red - Green ",
+                "Shipping": "FREE SHIPPING |",
+                "Description":"Fashion design,100% Brand New,high quality ",
+                "img" : "/images/99.jpg",
+                "img2" : "/images/992.jpg",
+                "img3" : "/images/993.jpg",
+                "img4" : "/images/994.jpg",
+                "price": 178}
+
+
+
+
+
+
+
+
+]
